@@ -1,5 +1,3 @@
-package com.bl;
-
 public class LambdaExpression {
 
     @FunctionalInterface
